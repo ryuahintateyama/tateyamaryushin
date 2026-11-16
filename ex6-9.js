@@ -1,3 +1,3 @@
 function changeImage(){
-  doucment.getElmentById('gazou').innerHTML='<img src="mage/hasiru.jpg"
+  document.getElementById('gazou').innerHTML='<img src="image/hasiru.jpg"
     width="300">';}
